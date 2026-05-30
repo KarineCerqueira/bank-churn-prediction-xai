@@ -2,11 +2,11 @@
 
 Este repositório contém os códigos, análises e experimentos desenvolvidos no Trabalho de Conclusão de Curso (TCC) apresentado ao Instituto de Ciências Matemáticas e de Computação (ICMC-USP).
 
-## 📌 Objetivo
+## Objetivo
 
 O objetivo do projeto é avaliar diferentes modelos de aprendizado de máquina aplicados à predição de churn de clientes bancários, identificando o algoritmo com melhor desempenho preditivo e utilizando técnicas de Explainable Artificial Intelligence (XAI) para interpretação das previsões.
 
-## 📊 Modelos Avaliados
+## Modelos Avaliados
 
 Os seguintes algoritmos foram avaliados:
 
@@ -18,7 +18,7 @@ Os seguintes algoritmos foram avaliados:
 - LightGBM
 - CatBoost
 
-## 🔍 Técnicas Utilizadas
+## Técnicas Utilizadas
 
 - Análise Exploratória de Dados (EDA)
 - Pré-processamento de Dados
@@ -29,11 +29,11 @@ Os seguintes algoritmos foram avaliados:
 - Ajuste de Threshold
 - Explainable AI (XAI) com SHAP
 
-## 🧠 Interpretabilidade
+## Interpretabilidade
 
 As análises de interpretabilidade foram realizadas utilizando SHAP (SHapley Additive exPlanations), permitindo compreender como diferentes variáveis influenciam as previsões do modelo.
 
-## 🏆 Melhor Modelo
+## Melhor Modelo
 
 O modelo CatBoost apresentou o melhor desempenho experimental considerando métricas como:
 
@@ -41,19 +41,8 @@ O modelo CatBoost apresentou o melhor desempenho experimental considerando métr
 - Recall
 - F1-Score
 
-## 📁 Estrutura do Projeto
 
-```bash
-├── data/
-├── notebooks/
-├── images/
-├── models/
-├── src/
-├── requirements.txt
-└── README.md
-```
-
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python
 - Pandas
@@ -66,14 +55,14 @@ O modelo CatBoost apresentou o melhor desempenho experimental considerando métr
 - Matplotlib
 - Seaborn
 
-## 📚 Trabalho Acadêmico
+## Trabalho Acadêmico
 
 Trabalho desenvolvido como requisito parcial para obtenção do título de Engenheira de Computação pela Universidade de São Paulo (USP).
 
-## 👩‍💻 Autora
+## Autora
 
 Karine Cerqueira Nascimento
 
-## 📄 Licença
+## Licença
 
 Este projeto possui finalidade acadêmica e educacional.
